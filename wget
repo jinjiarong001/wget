@@ -1,0 +1,38 @@
+--2023-03-01 07:39:16--  https://github.com/ginuerzh/gost/releases/download/v2.8.1/gost_2.8.1_linux_amd64.tar.gz
+Resolving github.com (github.com)... 20.205.243.166
+Connecting to github.com (github.com)|20.205.243.166|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://objects.githubusercontent.com/github-production-release-asset-2e65be/32575637/fc339e00-9470-11e9-9753-cd4e9bb0e1f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230301T073917Z&X-Amz-Expires=300&X-Amz-Signature=a1b5b529a9dcc66487fbe5c4f99d46b33872599a60dac484d4b9bcf7d536d702&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=32575637&response-content-disposition=attachment%3B%20filename%3Dgost_2.8.1_linux_amd64.tar.gz&response-content-type=application%2Foctet-stream [following]
+--2023-03-01 07:39:17--  https://objects.githubusercontent.com/github-production-release-asset-2e65be/32575637/fc339e00-9470-11e9-9753-cd4e9bb0e1f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230301%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230301T073917Z&X-Amz-Expires=300&X-Amz-Signature=a1b5b529a9dcc66487fbe5c4f99d46b33872599a60dac484d4b9bcf7d536d702&X-Amz-SignedHeaders=host&actor_id=0&key_id=0&repo_id=32575637&response-content-disposition=attachment%3B%20filename%3Dgost_2.8.1_linux_amd64.tar.gz&response-content-type=application%2Foctet-stream
+Resolving objects.githubusercontent.com (objects.githubusercontent.com)... 185.199.109.133, 185.199.111.133, 185.199.108.133, ...
+Connecting to objects.githubusercontent.com (objects.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9557353 (9.1M) [application/octet-stream]
+Saving to: ‘gost_2.8.1_linux_amd64.tar.gz’
+
+
+           gost_2.8.1_   0%[                             ]       0  --.-KB/s               
+          gost_2.8.1_l   0%[                             ]  16.77K  74.3KB/s               
+         gost_2.8.1_li   0%[                             ]  55.42K   120KB/s               
+        gost_2.8.1_lin   1%[                             ] 103.42K   147KB/s               
+       gost_2.8.1_linu   1%[                             ] 167.42K   184KB/s               
+      gost_2.8.1_linux   2%[                             ] 279.42K   245KB/s               
+     gost_2.8.1_linux_   5%[>                            ] 471.42K   345KB/s               
+    gost_2.8.1_linux_a   7%[=>                           ] 743.42K   467KB/s               
+   gost_2.8.1_linux_am  12%[==>                          ]   1.13M   637KB/s               
+  gost_2.8.1_linux_amd  18%[====>                        ]   1.68M   827KB/s               
+ gost_2.8.1_linux_amd6  26%[======>                      ]   2.41M  1.05MB/s               
+gost_2.8.1_linux_amd64  35%[=========>                   ]   3.27M  1.31MB/s               
+ost_2.8.1_linux_amd64.  43%[===========>                 ]   3.94M  1.45MB/s               
+st_2.8.1_linux_amd64.t  43%[===========>                 ]   4.01M  1.35MB/s               
+t_2.8.1_linux_amd64.ta  51%[=============>               ]   4.70M  1.47MB/s    eta 3s     
+_2.8.1_linux_amd64.tar  59%[================>            ]   5.38M  1.57MB/s    eta 3s     
+2.8.1_linux_amd64.tar.  66%[==================>          ]   6.07M  1.66MB/s    eta 3s     
+.8.1_linux_amd64.tar.g  74%[====================>        ]   6.77M  1.75MB/s    eta 3s     
+8.1_linux_amd64.tar.gz  82%[======================>      ]   7.49M  1.83MB/s    eta 3s     
+.1_linux_amd64.tar.gz   87%[========================>    ]   8.01M  1.85MB/s    eta 1s     
+1_linux_amd64.tar.gz    95%[==========================>  ]   8.73M  1.91MB/s    eta 1s     
+gost_2.8.1_linux_amd64 100%[============================>]   9.11M  2.00MB/s    in 4.6s    
+
+2023-03-01 07:39:23 (2.00 MB/s) - ‘gost_2.8.1_linux_amd64.tar.gz’ saved [9557353/9557353]
+
